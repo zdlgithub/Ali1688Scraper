@@ -1,0 +1,3 @@
+python3.7
+beautifulsoup4
+openpyxl
